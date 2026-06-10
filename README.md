@@ -4,7 +4,7 @@ Frontend quiz app for Ai + Coding Future Academy courses.
 
 ## About
 Interactive quiz platform for "Calculus in Action" course.  
-Built separately from RIZOME/CreatorsKit. Part of Ai + Coding Future Academy learning suite.
+Ai + Coding Future Academy learning suite.
 
 ## Tech Stack
 - **Frontend**: Next.js 14 + React + Tailwind CSS

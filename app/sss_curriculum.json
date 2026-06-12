@@ -1,0 +1,63 @@
+{
+  "_comment": "SSS 1-3 Coding + AI Curriculum | 6 topics per level | 15 quizzes/topic | 15 Q/quiz | 45Q exam | 1hr 20mins | Countdown timer",
+  "sss_curriculum": {
+    
+    // ==================== SSS 1 ====================
+    "sss_1": {
+      "level_name": "SSS 1",
+      "age_group": "15-16 years",
+      "focus": "OOP + Web + Git + Neural nets foundation",
+      "topics": [
+        {
+          "id": "s1_t1",
+          "name": "Python OOP",
+          "description": "Classes, objects, inheritance",
+          "quizzes_per_topic": 15,
+          "questions_per_quiz": 15,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "s1_t2",
+          "name": "HTML/CSS/JS",
+          "description": "Full frontend stack basics",
+          "quizzes_per_topic": 15,
+          "questions_per_quiz": 15,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "s1_t3",
+          "name": "Git/GitHub",
+          "description": "Version control, commits, pull requests",
+          "quizzes_per_topic": 15,
+          "questions_per_quiz": 15,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "s1_t4",
+          "name": "Neural networks basics",
+          "description": "Perceptrons, layers, activation",
+          "quizzes_per_topic": 15,
+          "questions_per_quiz": 15,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "s1_t5",
+          "name": "Data + CSV",
+          "description": "Read, clean, analyze datasets",
+          "quizzes_per_topic": 15,
+          "questions_per_quiz": 15,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "s1_t6",
+          "name": "Prompt engineering",
+          "description": "Advanced prompting techniques",
+          "quizzes_per_topic": 15,
+          "questions_per_quiz": 15,
+          "retake_allowed": true,
+          "progress

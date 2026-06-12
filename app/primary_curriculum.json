@@ -1,0 +1,170 @@
+{
+  "_comment": "Primary 1-6 Coding + AI Curriculum | 4 topics per level | 5 quizzes/topic | 5 Q/quiz | 15Q exam | 30mins",
+  "primary_curriculum": {
+    
+    // ==================== PRIMARY 1-2 ====================
+    "primary_1_2": {
+      "level_name": "Primary 1-2",
+      "age_group": "6-8 years",
+      "focus": "Computer basics + Logic introduction",
+      "topics": [
+        {
+          "id": "p12_t1",
+          "name": "Computer Basics",
+          "description": "Parts of computer, on/off, safe use",
+          "quizzes_per_topic": 5,
+          "questions_per_quiz": 5,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "p12_t2", 
+          "name": "Mouse/Keyboard",
+          "description": "Click, drag, typing basics",
+          "quizzes_per_topic": 5,
+          "questions_per_quiz": 5,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "p12_t3",
+          "name": "What is Coding", 
+          "description": "What is code, step-by-step thinking",
+          "quizzes_per_topic": 5,
+          "questions_per_quiz": 5,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "p12_t4",
+          "name": "ScratchJr Puzzles",
+          "description": "Drag-drop puzzles, sequencing",
+          "quizzes_per_topic": 5,
+          "questions_per_quiz": 5,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        }
+      ],
+      "final_exam": {
+        "total_questions": 15,
+        "duration_minutes": 30,
+        "can_end_early": true,
+        "unlock_after": "all_topics_completed"
+      },
+      "stats": {
+        "total_quizzes": 20,
+        "total_quiz_questions": 100
+      }
+    },
+
+    // ==================== PRIMARY 3-4 ====================
+    "primary_3_4": {
+      "level_name": "Primary 3-4",
+      "age_group": "9-10 years", 
+      "focus": "Scratch + Intro to AI",
+      "topics": [
+        {
+          "id": "p34_t1",
+          "name": "Scratch Blocks",
+          "description": "Move, sound, events blocks",
+          "quizzes_per_topic": 5,
+          "questions_per_quiz": 5,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "p34_t2",
+          "name": "Sequencing/Loops",
+          "description": "Order of steps, repeat blocks",
+          "quizzes_per_topic": 5,
+          "questions_per_quiz": 5,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "p34_t3",
+          "name": "What is AI",
+          "description": "AI vs human, examples around us",
+          "quizzes_per_topic": 5,
+          "questions_per_quiz": 5,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "p34_t4",
+          "name": "Chatbots for kids",
+          "description": "Talking to AI safely",
+          "quizzes_per_topic": 5,
+          "questions_per_quiz": 5,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        }
+      ],
+      "final_exam": {
+        "total_questions": 15,
+        "duration_minutes": 30,
+        "can_end_early": true,
+        "unlock_after": "all_topics_completed"
+      },
+      "stats": {
+        "total_quizzes": 20,
+        "total_quiz_questions": 100
+      }
+    },
+
+    // ==================== PRIMARY 5-6 ====================
+    "primary_5_6": {
+      "level_name": "Primary 5-6",
+      "age_group": "11-12 years",
+      "focus": "Projects + HTML + AI tools",
+      "topics": [
+        {
+          "id": "p56_t1",
+          "name": "Scratch Projects",
+          "description": "Build simple games/stories",
+          "quizzes_per_topic": 5,
+          "questions_per_quiz": 5,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "p56_t2",
+          "name": "HTML Basics",
+          "description": "Tags, headings, paragraphs",
+          "quizzes_per_topic": 5,
+          "questions_per_quiz": 5,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "p56_t3",
+          "name": "AI Tools: Image gen",
+          "description": "Create images with prompts",
+          "quizzes_per_topic": 5,
+          "questions_per_quiz": 5,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "p56_t4",
+          "name": "Problem Solving",
+          "description": "Break problems into steps",
+          "quizzes_per_topic": 5,
+          "questions_per_quiz": 5,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        }
+      ],
+      "final_exam": {
+        "total_questions": 15,
+        "duration_minutes": 30,
+        "can_end_early": true,
+        "unlock_after": "all_topics_completed"
+      },
+      "stats": {
+        "total_quizzes": 20,
+        "total_quiz_questions": 100
+      }
+    }
+  }
+}

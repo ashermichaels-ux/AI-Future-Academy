@@ -1,0 +1,154 @@
+{
+  "_comment": "JSS 1-3 Coding + AI Curriculum | 5 topics per level | 10 quizzes/topic | 10 Q/quiz | 30Q exam | 45mins | 10 Q per page",
+  "jss_curriculum": {
+    
+    // ==================== JSS 1 ====================
+    "jss_1": {
+      "level_name": "JSS 1",
+      "age_group": "12-13 years",
+      "focus": "Web basics + Python intro + AI concepts",
+      "topics": [
+        {
+          "id": "j1_t1",
+          "name": "HTML/CSS",
+          "description": "Structure pages, style with CSS",
+          "quizzes_per_topic": 10,
+          "questions_per_quiz": 10,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "j1_t2",
+          "name": "Intro to Python",
+          "description": "Syntax, print, input, comments",
+          "quizzes_per_topic": 10,
+          "questions_per_quiz": 10,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "j1_t3",
+          "name": "Variables/Logic",
+          "description": "Data types, if/else, conditions",
+          "quizzes_per_topic": 10,
+          "questions_per_quiz": 10,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "j1_t4",
+          "name": "What is ML",
+          "description": "Machine learning basics, examples",
+          "quizzes_per_topic": 10,
+          "questions_per_quiz": 10,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "j1_t5",
+          "name": "AI Ethics",
+          "description": "Bias, privacy, responsible AI use",
+          "quizzes_per_topic": 10,
+          "questions_per_quiz": 10,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        }
+      ],
+      "final_exam": {
+        "total_questions": 30,
+        "duration_minutes": 45,
+        "can_end_early": true,
+        "questions_per_page": 10,
+        "unlock_after": "all_topics_completed"
+      },
+      "stats": {
+        "total_quizzes": 50,
+        "total_quiz_questions": 500
+      }
+    },
+
+    // ==================== JSS 2 ====================
+    "jss_2": {
+      "level_name": "JSS 2",
+      "age_group": "13-14 years",
+      "focus": "Python deep dive + Web + AI prompts",
+      "topics": [
+        {
+          "id": "j2_t1",
+          "name": "Python Lists/Loops",
+          "description": "Lists, for/while loops",
+          "quizzes_per_topic": 10,
+          "questions_per_quiz": 10,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "j2_t2",
+          "name": "Web pages",
+          "description": "Build multi-page sites, links",
+          "quizzes_per_topic": 10,
+          "questions_per_quiz": 10,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "j2_t3",
+          "name": "Data types",
+          "description": "String, int, float, boolean",
+          "quizzes_per_topic": 10,
+          "questions_per_quiz": 10,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "j2_t4",
+          "name": "ChatGPT prompts",
+          "description": "Write good prompts, refine outputs",
+          "quizzes_per_topic": 10,
+          "questions_per_quiz": 10,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "j2_t5",
+          "name": "AI in daily life",
+          "description": "Where AI shows up: maps, phones, apps",
+          "quizzes_per_topic": 10,
+          "questions_per_quiz": 10,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        }
+      ],
+      "final_exam": {
+        "total_questions": 30,
+        "duration_minutes": 45,
+        "can_end_early": true,
+        "questions_per_page": 10,
+        "unlock_after": "all_topics_completed"
+      },
+      "stats": {
+        "total_quizzes": 50,
+        "total_quiz_questions": 500
+      }
+    },
+
+    // ==================== JSS 3 ====================
+    "jss_3": {
+      "level_name": "JSS 3",
+      "age_group": "14-15 years",
+      "focus": "Functions + JS + APIs + ML projects",
+      "topics": [
+        {
+          "id": "j3_t1",
+          "name": "Python Functions",
+          "description": "def, parameters, return values",
+          "quizzes_per_topic": 10,
+          "questions_per_quiz": 10,
+          "retake_allowed": true,
+          "progress_on_complete": true
+        },
+        {
+          "id": "j3_t2",
+          "name": "JavaScript basics",
+          "description": "Variables, DOM, events",
+          "quizzes_per_topic

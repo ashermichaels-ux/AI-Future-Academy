@@ -1,0 +1,27 @@
+{
+  "JSS1": {
+    "AI_Basics": ["topic-1", "topic-2"],
+    "Prompt_Engineering": ["topic-3"],
+    "Data_Literacy": ["topic-4", "topic-5"]
+  },
+  "JSS2": {
+    "AI_Basics": ["topic-6"],
+    "Web_Automation": ["topic-7", "topic-8"],
+    "Prompt_Engineering": ["topic-9"]
+  },
+  "JSS3": {
+    "AI_Fullstack_Developer": ["topic-10", "topic-11", "topic-12"]
+  },
+  "SSS1": {
+    "AI_Fullstack_Developer": ["html-basics-3", "css-layouts", "js-dom"],
+    "AI_Agent_Design": ["agents-1", "agents-2"]
+  },
+  "SSS2": {
+    "AI_Fullstack_Developer": ["nextjs-basics", "api-routes"],
+    "Computer_Vision": ["cv-1", "cv-2"]
+  },
+  "SSS3": {
+    "AI_Fullstack_Developer": ["deployment", "vercel-deploy"],
+    "NLP": ["nlp-1", "nlp-2"]
+  }
+}
